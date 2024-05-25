@@ -1,2 +1,2 @@
 # CampuScore-api
-ce repository contient le projet front_end et back_end de notre projet
+Dans ce projet il est question de developper les api qui contiennent le backend de l'application campusScore qui est une application de supervision des jeux universitaires .
